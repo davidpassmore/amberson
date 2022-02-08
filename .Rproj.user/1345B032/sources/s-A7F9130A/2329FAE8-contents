@@ -1,12 +1,3 @@
----
-title: "An Example Using the Tufte Style"
-author: "John Smith"
-output:
-  html_document:
-    df_print: paged
-  tufte::tufte_html: default
-  tufte::tufte_handout: default
----
 
 # Amberson Towers Condominum <br/> Rules & Regulations 
 
