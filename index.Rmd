@@ -1,5 +1,5 @@
 --- 
-title: "Governing Amberson Towers Condominums <br/>*Three Separate Documents*"
+title: "Governing Documents <br/>Amberson Towers Condominums"
 date: "Last Revision: October 13, 2021"
 site: bookdown::bookdown_site
 documentclass: book
@@ -24,4 +24,4 @@ The governing documents of Amberson Towers comprise three separate documents:
 
 ***
 
-> **Notes & Disclaimer:**  This publication has been produced for the convenience of our residents and users. It is an unofficial reproduction of the original documents and any amendme.ots thereto. This version of the Code of Regulations integrates all revisions into one consolidated document. The official recorded documents should be consulted for all interpretations and applications. They are the primary source and documents for all purposes. Copies of the official documents may be inspected and obtained in the Management Office. In the event of an error, misprint, omission, or conflict between the within versions and the official documents, the official printed and recorded documents shall govern and be controlling.
+> **Notes & Disclaimer:**  This publication has been produced for the convenience of our residents and users. It is an unofficial reproduction of the original documents and any ameendments thereto. This version of the Code of Regulations integrates all revisions into one consolidated document. The official recorded documents should be consulted for all interpretations and applications. They are the primary source and documents for all purposes. Copies of the official documents may be inspected and obtained in the Management Office. In the event of an error, misprint, omission, or conflict between the within versions and the official documents, the official printed and recorded documents shall govern and be controlling.

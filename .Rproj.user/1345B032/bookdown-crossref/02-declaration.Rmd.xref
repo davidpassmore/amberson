@@ -1,10 +1,14 @@
 h1:declaration-for-amberson-towers Declaration for Amberson Towers
-h2:article-i Article I
-h2:article-ii Article II
-h2:article-iii Article III
-h2:article-iv Article IV
-h2:article-v Article V
-h2:article-vi Article VI
-h2:article-vii Article VII
-h2:article-viii Article VIII
+h2:article-i ARTICLE I
+h2:article-ii ARTICLE II
+h2:article-iii ARTICLE III
+h2:article-iv ARTICLE IV
+h3:section-1 Section 1
+h3:section-2 Section 2
+h2:article-v ARTICLE V
+h3:section-1-1 Section 1
+h3:section-2-1 Section 2
+h2:article-vi ARTICLE VI
+h2:article-vii ARTICLE VII
+h2:article-viii ARTICLE VIII
 
